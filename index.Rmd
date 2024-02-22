@@ -1,0 +1,7 @@
+---
+title: "My Repo Site"
+author: "Stephanie Onumajuru"
+output: html_document
+date: "2024-02-22"
+---
+## My GitHub Page
